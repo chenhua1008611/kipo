@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ZZ\TouRongZj\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="D:\ZZ\TouRongZj\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.8_40e7d9b3ddaa63e2e73a42efc133ee0ab506825a\classes.dex" />
+    </item>
+    <item
+        jar="D:\ZZ\TouRongZj\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="D:\ZZ\TouRongZj\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_6a0d1147b417185f2539cf3d35a8004d5a375a53\classes.dex" />
+    </item>
+
+</items>
