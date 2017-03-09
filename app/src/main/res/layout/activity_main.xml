@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/fragment_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/white"
+        android:layout_weight="1.0">
+
+    </FrameLayout>
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_gravity="top"
+        android:background="@color/line_seperate" />
+
+
+    <RelativeLayout
+        android:id="@+id/main_ta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/title_color">
+
+        <RadioGroup
+            android:id="@+id/tabs_rg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/size_5dp"
+            android:paddingRight="@dimen/size_5dp"
+            android:paddingTop="5dp">
+
+            <RadioButton
+                android:id="@+id/tab_radiobutton_market"
+                style="@style/Tab_RadioButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/tab_market"
+                android:text="@string/tabmarket"
+                android:textColor="@color/black"
+                android:checked="false" />
+
+
+            <RadioButton
+                android:id="@+id/tab_radiobutton_college"
+                style="@style/Tab_RadioButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/tab_college"
+                android:textColor="@color/black"
+                android:text="@string/tabcollage" />
+
+            <RadioButton
+                android:id="@+id/tab_radiobutton_messege"
+                style="@style/Tab_RadioButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/tab_message"
+                android:textColor="@color/black"
+                android:text="@string/tabmessage" />
+
+            <RadioButton
+                android:id="@+id/tab_radiobutton_mine"
+                style="@style/Tab_RadioButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/tab_mine"
+                android:textColor="@color/black"
+                android:text="@string/tabme" />
+        </RadioGroup>
+
+    </RelativeLayout>
+
+</LinearLayout>

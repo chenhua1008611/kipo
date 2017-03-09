@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">投融在线</string>
+
+    <string name="tabmarket">投融市场</string>
+    <string name="tabcollage">投融学院</string>
+    <string name="tabmessage">私信</string>
+    <string name="tabme">我</string>
+    <string name="tip_press_back">再按一次退出程序</string>
+</resources>

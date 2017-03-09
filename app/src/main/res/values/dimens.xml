@@ -1,0 +1,155 @@
+<resources>
+
+    <!-- common -->
+    <!--预定义5中字体大小-->
+    <dimen name="font_large">17sp</dimen>
+    <dimen name="font_normal">15sp</dimen>
+    <dimen name="font_middle">14sp</dimen>
+    <dimen name="font_standard">13sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_tiny">10sp</dimen>
+    <!-- common END -->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="size5sp">5sp</dimen>
+    <dimen name="size12sp">12sp</dimen>
+    <dimen name="size13sp">13sp</dimen>
+    <dimen name="size14sp">14sp</dimen>
+    <dimen name="size15sp">15sp</dimen>
+    <dimen name="size16sp">16sp</dimen>
+    <dimen name="size17sp">17sp</dimen>
+    <dimen name="size18sp">18sp</dimen>
+    <dimen name="size20sp">20sp</dimen>
+    <dimen name="size10sp">10sp</dimen>
+    <dimen name="zj_size_title">20sp</dimen>
+    <dimen name="zj_size_context">20sp</dimen>
+    <!-- sp==end -->
+
+
+    <!-- dp===star -->
+    <dimen name="size_0dp">0dip</dimen>
+    <dimen name="size_05dp">0.5dp</dimen>
+    <dimen name="size_1dp">1dp</dimen>
+    <dimen name="size_2dp">2dp</dimen>
+    <dimen name="size_3dp">3dp</dimen>
+    <dimen name="size_4dp">4dp</dimen>
+    <dimen name="size_5dp">5dp</dimen>
+    <dimen name="size_6dp">6dp</dimen>
+    <dimen name="size_7dp">7dp</dimen>
+    <dimen name="size_8dp">8dp</dimen>
+    <dimen name="size_9dp">9dp</dimen>
+    <dimen name="size_10dp">10dp</dimen>
+    <dimen name="size_12dp">12dp</dimen>
+    <dimen name="size_13dp">13dp</dimen>
+    <dimen name="size_14dp">14dp</dimen>
+    <dimen name="size_15dp">15dp</dimen>
+    <dimen name="size_17dp">17dp</dimen>
+    <dimen name="size_18dp">18dp</dimen>
+    <dimen name="size_19dp">19dp</dimen>
+    <dimen name="size_20dp">20dp</dimen>
+    <dimen name="size_21dp">21dp</dimen>
+    <dimen name="size_25dp">25dp</dimen>
+    <dimen name="size_28dp">28dp</dimen>
+    <dimen name="size_29dp">29dp</dimen>
+    <dimen name="size_30dp">30dp</dimen>
+    <dimen name="size_31dp">31dp</dimen>
+    <dimen name="size_32dp">32dp</dimen>
+    <dimen name="size_33dp">33dp</dimen>
+    <dimen name="size_34dp">34dp</dimen>
+    <dimen name="size_35dp">35dp</dimen>
+    <dimen name="size_37dp">37dp</dimen>
+    <dimen name="size_38dp">38dp</dimen>
+    <dimen name="size_40dp">40dp</dimen>
+    <dimen name="size_44dp">44dp</dimen>
+    <dimen name="size_45dp">45dp</dimen>
+    <dimen name="size_47dp">47dp</dimen>
+    <dimen name="size_50dp">50dp</dimen>
+    <dimen name="size_51dp">51dp</dimen>
+    <dimen name="size_52dp">52dp</dimen>
+    <dimen name="size_55dp">55dp</dimen>
+    <dimen name="size_56dp">56dp</dimen>
+    <dimen name="size_57dp">57dp</dimen>
+    <dimen name="size_60dp">60dp</dimen>
+    <dimen name="size_65dp">65dp</dimen>
+    <dimen name="size_67dp">67dp</dimen>
+    <dimen name="size_70dp">70dp</dimen>
+    <dimen name="size_76dp">76dp</dimen>
+    <dimen name="size_80dp">80dp</dimen>
+    <dimen name="size_90dp">90dp</dimen>
+    <dimen name="size_100dp">100dp</dimen>
+    <dimen name="size_105dp">105dp</dimen>
+    <dimen name="size_110dp">110dp</dimen>
+    <dimen name="size_115dp">115dp</dimen>
+    <dimen name="size_120dp">120dp</dimen>
+    <dimen name="size_130dp">130dp</dimen>
+    <dimen name="size_140dp">140dp</dimen>
+    <dimen name="size_145dp">145dp</dimen>
+    <dimen name="size_150dp">150dp</dimen>
+    <dimen name="size_160dp">160dp</dimen>
+    <dimen name="size_165dp">165dp</dimen>
+    <dimen name="size_170dp">170dp</dimen>
+    <dimen name="size_175dp">175dp</dimen>
+    <dimen name="size_180dp">180dp</dimen>
+    <dimen name="size_190dp">190dp</dimen>
+    <dimen name="size_194dp">194dp</dimen>
+    <dimen name="size_200dp">200dp</dimen>
+    <dimen name="size_224dp">224dp</dimen>
+    <dimen name="size_233dp">233dp</dimen>
+    <dimen name="size_260dp">260dp</dimen>
+    <dimen name="size_280dp">280dp</dimen>
+    <dimen name="size_290dp">290dp</dimen>
+    <dimen name="size_300dp">300dp</dimen>
+    <dimen name="size_304dp">304dp</dimen>
+    <dimen name="size_320dp">320dp</dimen>
+    <dimen name="size_420dp">420dp</dimen>
+
+    <!-- 3D轮播图的圆角大小 -->
+    <dimen name="borderRadius">6dp</dimen>
+    <!-- 直播相关 -->
+    <dimen name="video_small_view_offsetX">10dp</dimen>
+    <dimen name="video_small_view_offsetY">100dp</dimen>
+    <dimen name="video_small_view_width">120dp</dimen>
+    <dimen name="video_small_view_height">160dp</dimen>
+    <dimen name="video_small_video_margin">1.5dp</dimen>
+    <dimen name="video_small_mute_margin">5dp</dimen>
+    <dimen name="small_area_margin_bottom">110dp</dimen>
+    <dimen name="small_area_margin_top">130dp</dimen>
+    <dimen name="small_area_height">110dp</dimen>
+    <dimen name="small_area_width">60dp</dimen>
+    <dimen name="small_area_marginright">10dp</dimen>
+    <dimen name="small_area_marginbetween">10dp</dimen>
+    <dimen name="video_top_toolbar_margin">45dp</dimen>
+    <dimen name="video_bottom_toolbar_margin">10dp</dimen>
+    <!-- 视频聊天中小窗口移动时的阈值 -->
+    <dimen name="video_smallview_move_thresholdX">30dp</dimen>
+    <dimen name="video_smallview_move_thresholdY">40dp</dimen>
+    <!-- 标签页 -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tag_corner_radius">20.0dip</dimen>
+    <dimen name="tag_horizontal_spacing">8.0dip</dimen>
+    <dimen name="tag_vertical_spacing">6.0dip</dimen>
+    <dimen name="common_margin">12.0dip</dimen>
+    <dimen name="common_margin_10">10.0dip</dimen>
+
+    <dimen name="item_interval_height">5.0dip</dimen>
+
+    <!--233 179-->
+    <dimen name="ask_video_img_width">186.4dp</dimen>
+    <dimen name="ask_video_img_height">143.2dp</dimen>
+
+    <!-- 融云聊天室-->
+
+    <dimen name="heart_anim_bezier_x_rand">40.0dp</dimen>
+    <dimen name="heart_anim_init_x">50.0dp</dimen>
+    <dimen name="heart_anim_init_y">25.0dp</dimen>
+    <dimen name="heart_anim_length">100.0dp</dimen>
+    <dimen name="heart_anim_length_rand">150.0dp</dimen>
+    <dimen name="heart_anim_x_point_factor">30.0dp</dimen>
+
+    <dimen name="heart_size_height">27.3dp</dimen>
+    <dimen name="heart_size_width">32.5dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <!-- 自定义软键盘 -->
+    <dimen name="key_height">50.0dip</dimen>
+</resources>
